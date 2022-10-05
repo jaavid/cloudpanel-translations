@@ -44,7 +44,7 @@
             </trans-unit>
             <trans-unit id="update-available">
                 <source>Update available</source>
-                <target>Update available</target>
+                <target>به‌روزرسانی موجود است</target>
             </trans-unit>
             <trans-unit id="issues">
                 <source>Issues</source>
@@ -52,87 +52,87 @@
             </trans-unit>
             <trans-unit id="submit">
                 <source>Submit</source>
-                <target>Submit</target>
+                <target>ارسال</target>
             </trans-unit>
             <trans-unit id="site">
                 <source>Site</source>
-                <target>Site</target>
+                <target>سایت</target>
             </trans-unit>
             <trans-unit id="sites">
                 <source>Sites</source>
-                <target>Sites</target>
+                <target>سایت ها</target>
             </trans-unit>
             <trans-unit id="locale-german">
                 <source>German</source>
-                <target>German</target>
+                <target>آلمانی</target>
             </trans-unit>
             <trans-unit id="locale-english">
                 <source>English</source>
-                <target>English</target>
+                <target>انگلیسی</target>
             </trans-unit>
             <trans-unit id="locale-french">
                 <source>French</source>
-                <target>French</target>
+                <target>فرانسوی</target>
             </trans-unit>
             <trans-unit id="locale-dutch">
                 <source>Dutch</source>
-                <target>Dutch</target>
+                <target>هلندی</target>
             </trans-unit>
             <trans-unit id="locale-italian">
                 <source>Italian</source>
-                <target>Italian</target>
+                <target>ایتالیایی</target>
             </trans-unit>
             <trans-unit id="locale-spanish">
                 <source>Spanish</source>
-                <target>Spanish</target>
+                <target>اسپانیایی</target>
             </trans-unit>
             <trans-unit id="locale-polish">
                 <source>Polish</source>
-                <target>Polish</target>
+                <target>لهستانی</target>
             </trans-unit>
             <trans-unit id="locale-portuguese">
                 <source>Portuguese</source>
-                <target>Portuguese</target>
+                <target>پرتفالی</target>
             </trans-unit>
             <trans-unit id="locale-portuguese-brasil">
                 <source>Portuguese (Brasil)</source>
-                <target>Portuguese (Brasil)</target>
+                <target>پرتقالی (برزیل)</target>
             </trans-unit>
             <trans-unit id="locale-greek">
                 <source>Greek</source>
-                <target>Greek</target>
+                <target>یونانی</target>
             </trans-unit>
             <trans-unit id="locale-lithuania">
                 <source>Lithuanian</source>
-                <target>Lithuanian</target>
+                <target>لیتوانیایی</target>
             </trans-unit>
             <trans-unit id="locale-indonesian">
                 <source>Indonesian</source>
-                <target>Indonesian</target>
+                <target>اندونزیایی</target>
             </trans-unit>
             <trans-unit id="locale-romanian">
                 <source>Romanian</source>
-                <target>Romanian</target>
+                <target>رومانیایی</target>
             </trans-unit>
             <trans-unit id="locale-russian">
                 <source>Russian</source>
-                <target>Russian</target>
+                <target>روسی</target>
             </trans-unit>
             <trans-unit id="locale-turkish">
                 <source>Turkish</source>
-                <target>Turkish</target>
+                <target>ترکی</target>
             </trans-unit>
             <trans-unit id="locale-ukrainian">
                 <source>Ukrainian</source>
-                <target>Ukrainian</target>
+                <target>اکراینی</target>
             </trans-unit>
             <trans-unit id="locale-arabic">
                 <source>Arabic</source>
-                <target>Arabic</target>
+                <target>عربی</target>
             </trans-unit>
             <trans-unit id="locale-vietnamese">
                 <source>Vietnamese</source>
-                <target>Vietnamese</target>
+                <target>ویتنامی</target>
             </trans-unit>
             <trans-unit id="ipv4-public-ip">
                 <source>IPv4 Public IP</source>
@@ -144,23 +144,23 @@
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>OS</target>
+                <target>سیستم عامل</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
-                <target>Hostname</target>
+                <target>نام هاست</target>
             </trans-unit>
             <trans-unit id="cpu">
                 <source>CPU</source>
-                <target>CPU</target>
+                <target>سی‌پی‌یو</target>
             </trans-unit>
             <trans-unit id="cores">
                 <source>Cores</source>
-                <target>Cores</target>
+                <target>هسته</target>
             </trans-unit>
             <trans-unit id="memory">
                 <source>Memory</source>
-                <target>Memory</target>
+                <target>حافظه</target>
             </trans-unit>
             <trans-unit id="user-name">
                 <source>User Name</source>
@@ -168,35 +168,35 @@
             </trans-unit>
             <trans-unit id="password">
                 <source>Password</source>
-                <target>Password</target>
+                <target>رمز</target>
             </trans-unit>
             <trans-unit id="login">
                 <source>Log In</source>
-                <target>Log In</target>
+                <target>ورود</target>
             </trans-unit>
             <trans-unit id="settings">
                 <source>Settings</source>
-                <target>Settings</target>
+                <target>تنظیمات</target>
             </trans-unit>
             <trans-unit id="logout">
                 <source>Logout</source>
-                <target>Logout</target>
+                <target>خروج</target>
             </trans-unit>
             <trans-unit id="language">
                 <source>Language</source>
-                <target>Language</target>
+                <target>زبان</target>
             </trans-unit>
             <trans-unit id="firstName">
                 <source>First Name</source>
-                <target>First Name</target>
+                <target>نام</target>
             </trans-unit>
             <trans-unit id="lastName">
                 <source>Last Name</source>
-                <target>Last Name</target>
+                <target>نام خانوادگی</target>
             </trans-unit>
             <trans-unit id="email">
                 <source>E-Mail</source>
-                <target>E-Mail</target>
+                <target>ایمیل</target>
             </trans-unit>
             <trans-unit id="timezone">
                 <source>Timezone</source>
